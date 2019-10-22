@@ -43,7 +43,7 @@ public class Buchstaben {
     }
 
     public static boolean isLetter(char c){
-        return isLowerCase(c) && isLowerCase(c);
+        return isLowerCase(c) || isUpperCase(c);
     }
 
     public static boolean isDigit(char c){
