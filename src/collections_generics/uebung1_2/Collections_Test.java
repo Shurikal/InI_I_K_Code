@@ -1,4 +1,4 @@
-package collections.uebung1_2;
+package collections_generics.uebung1_2;
 
 
 import java.util.*;

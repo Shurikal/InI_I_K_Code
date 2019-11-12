@@ -1,4 +1,4 @@
-package collections.uebung1_3;
+package collections_generics.uebung1_3;
 
 import java.util.HashSet;
 
